@@ -1,4 +1,4 @@
-# Proposal-Repuclic
+# Proposal-Republic
 
 Republic is a company that uses crowdsourcing to collect money from numerous individuals for start-ups early stage funding, including cryptocurrency creators. What makes Republic unique is that they allow for investments as low as a couple hundred dollars.
 
@@ -6,7 +6,7 @@ Their primary competitors include Pynk, Amazon, Olapic, PassionAnt and Local Mot
 
 ## Republic's Technologies 
 
-*They use  teccnology mysql,cloud technology, cryptocurrency to money transfer, database teccnology*
+*They use mysql ,cloud technology, cryptocurrency to money transfer, database technology*
 
 
 ![cryptocurrency](https://specials-images.forbesimg.com/imageserve/1199763300/960x0.jpg?fit=scale)
@@ -19,7 +19,7 @@ They use the currency coin to raise money in small investments. A potential weak
 
 ### The Future of Republic 
 
-They can impore regulation and security part in the future.This company make it easier for people to invest their money, they can want to invest in crypto, which might not automatically be generated with a fund. 
+They can improve regulation and security in the future. This company make it easier for people to invest their money, they can invest in crypto, which might not automatically be generated with a fund. 
 
 
 
