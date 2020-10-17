@@ -8,6 +8,8 @@ Their primary competitors include Pynk, Amazon, Olapic, PassionAnt and Local Mot
 
 *They use mysql ,cloud technology, cryptocurrency to money transfer, database technology*
 
+By using these technologies to their advantage, they're able to collect more funding with less restrictions via crowdsourcing due to the SEC's recent change that allows people with average amounts of money to participate in opportunities like this. They're considered a FinTech company because they built a platform that is challenging the traditional structure of investments and how start-ups can get funding.
+
 
 ![cryptocurrency](https://specials-images.forbesimg.com/imageserve/1199763300/960x0.jpg?fit=scale)
 
