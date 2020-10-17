@@ -5,3 +5,8 @@ Republic is a company that uses crowdsourcing to collect money from numerous ind
 Their primary competitors include Pynk, Amazon, Olapic, PassionAnt and Local Motors. Considering their business model, they're unique in the sense that they use the small amounts of money to provide for start-ups. 
 
 ## Republic's Technologies 
+
+*They use  teccnology mysql,cloud technology, cryptocurrency to money transfer, database teccnology*
+
+
+![cryptocurrency](https://specials-images.forbesimg.com/imageserve/1199763300/960x0.jpg?fit=scale)
