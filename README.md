@@ -19,7 +19,9 @@ They use the currency coin to raise money in small investments. A potential weak
 
 ### The Future of Republic 
 
+They can impore regulation and security part in the future.This company make it easier for people to invest their money, they can want to invest in crypto, which might not automatically be generated with a fund. 
 
 
-Contributors: Meagan Rathjen, Oghuzan A
+
+Contributors: Meagan Rathjen, Oguzhan A
 
